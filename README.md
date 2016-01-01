@@ -71,6 +71,8 @@ For example if you where looking for Google's Chrome:
 	==> Partial matches
 	chrome-devtools				epichrome
 	chrome-remote-desktop-host	google-chrome
+	
+If you'd like a quick gander at the over 2500 Casks available from [**Caskroom.io**](http://caskroom.io/) as of this writing [**click here**](cask-list.txt).
 
 
 ##Installing Applications from Casks
