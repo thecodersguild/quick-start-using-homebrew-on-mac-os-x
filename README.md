@@ -44,7 +44,7 @@ To discover packages simply search to list all available packages:
 	
 You can also visit several websites that provide more information about available packages:
 
-- [**Search Brew**](hhttp://searchbrew.com/)
+- [**Search Brew**](http://searchbrew.com/)
 - [**Braumeister**](http://braumeister.org/)
 - [**Homebrew Formulas on GitHub**](https://github.com/Homebrew/homebrew/tree/master/Library/Formula)
 
